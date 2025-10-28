@@ -1,0 +1,7 @@
+{
+  "session_id": "1041b4fa-92a6-4a43-a24c-09be140b23ad",
+  "prompts": [
+    "how can we add an alias for my entire mac to run the command, `claude --dangerously-skip-permissions` aliased as `cldy`"
+  ],
+  "agent_name": "Cipher"
+}

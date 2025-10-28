@@ -1,0 +1,10 @@
+{
+  "session_id": "d796412f-0177-4709-bfc7-abf1499e30d6",
+  "prompts": [
+    "how can we replace our atlassian mcp connection to use an auth token?",
+    "here is my api key\\\nATATT3xFfGF0AW8eFo8tkF0B9SZGXRgHZCUItjWcCxBIjVF4JBi3dfKNllP6yVgx6qSFiQ37c3oGVgFsoSO6cstCPFsCLzmboKBPOOB8vrGe5INxhCG96_jbbQNPnwAV1zNznxZ0r4NaNL213HGYR8gtcE_x2baGKiLebDQAifFTeOZJXDqiFHc=E654A639",
+    "1",
+    "ive added a gitignore for all my system for .claude directories, can we allow these to be in git for this project?"
+  ],
+  "agent_name": "Oracle"
+}

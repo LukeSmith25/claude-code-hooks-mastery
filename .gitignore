@@ -114,3 +114,7 @@ extras/
 
 # Claude Code data
 .claude/data/
+
+# Allow .claude config for this project (override global gitignore)
+!.claude/
+!.claude/**

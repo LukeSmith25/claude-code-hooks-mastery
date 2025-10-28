@@ -1,0 +1,15 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(echo:*)",
+      "Bash(claude mcp add:*)",
+      "Bash(cc mcp add:*)",
+      "Bash(source ~/.zshrc)",
+      "Bash(claude mcp remove:*)",
+      "Bash(git config:*)",
+      "Read(//Users/luke.smith/**)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
